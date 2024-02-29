@@ -16,3 +16,7 @@ As a passionate advocate of preserving memories, I've created this blogfolio to 
 
 - Hosted with Netlify
 - Built using AstroJS
+
+
+## TODO
+Host blogfolio on personal domain.

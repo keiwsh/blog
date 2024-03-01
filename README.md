@@ -1,6 +1,7 @@
 # Kei's Blogfolio
 
 Welcome to my personal blogfolio hosted with Netlify!
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bc95f862-b8f2-44e6-bba1-3fce03d04cf3/deploy-status)](https://app.netlify.com/sites/keiwsh-blog/deploys)
 
 [Visit the blogfolio](https://keiwsh-blog.netlify.app/)

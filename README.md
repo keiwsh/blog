@@ -1,10 +1,10 @@
 # Kei's Blogfolio
 
-Welcome to my personal blogfolio hosted with Netlify!
+Welcome to my personal blogfolio.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bc95f862-b8f2-44e6-bba1-3fce03d04cf3/deploy-status)](https://app.netlify.com/sites/keiwsh-blog/deploys)
 
-[Visit the blogfolio](https://keiwsh-blog.netlify.app/)
+[Visit the blogfolio](https://hoangkhangle.ch/)
 
 ## Introduction
 
@@ -17,8 +17,10 @@ As a passionate advocate of preserving memories, I've created this blogfolio to 
 ## Technologies Used
 
 - Hosted with Netlify
-- Built using AstroJS
+- Personal Domain bought with Hostpoint
+- Built using Astro
 
 
 ## TODO
-Host blogfolio on personal domain.
+Add Dark Mode
+Add more Social-Links
